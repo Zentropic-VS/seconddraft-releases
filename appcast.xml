@@ -5,17 +5,17 @@
         <link>https://seconddraft.fyi/appcast.xml</link>
         <language>en</language>
         <item>
-            <title>Version 1.11</title>
-            <pubDate>Tue, 02 Jun 2026 01:24:59 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
+            <title>Version 1.12</title>
+            <pubDate>Mon, 12 Oct 2026 03:02:44 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>What's New in 1.11</h2><ul><li># Version 1.11</li><li>A fresh look — and dark mode that finally looks right everywhere.</li><li>## A cleaner, calmer design</li><li>Second Draft has a new monochrome "carbon and platinum" palette. The panel, settings, and onboarding all feel more focused — less color noise, more attention on your words.</li><li>## Dark mode, done right</li><li>Dark mode used to be patchy, with a few cards and surfaces stuck looking light. Now every screen adapts properly, so Second Draft looks at home whether your Mac is in light or dark.</li><li>## A few sharper details</li><li>Refined recipe badges, clearer selected states, and better contrast throughout so everything's easy to read.</li></ul>
+                <h2>What's New in 1.12</h2><ul><li>Second Draft now runs on the newest AI models: Claude Sonnet 5.5, GPT-6.1 Sol, and Gemini 3.8 Flash. You're switched over automatically, nothing to change in Settings.</li><li>Claude rewrites are tuned for quality. In our testing, suggestions came out noticeably better without getting any slower.</li><li>More models to pick from in Settings: Claude Opus 5.5 and Haiku 5.5, GPT-6 Luna and GPT-6 Astra, and Gemini 3.5 Flash-Lite. The model menu now shows just the current lineup, no retired models.</li><li>Fixed: OpenAI's newest models showed an error instead of suggestions. They work now.</li><li>Safer API keys: if you paste a Claude key into the OpenAI field by mistake, Second Draft catches it and never sends it to OpenAI.</li><li>Your app version now shows in Settings → General, so it's easy to tell us which build you're on when you report something.</li><li>Second Draft is now part of Zentropic, our new studio. Nothing changes for you: same app, same privacy.</li></ul>
             ]]></description>
             <enclosure
-                url="https://github.com/set311/seconddraft-releases/releases/download/v1.11/SecondDraft-1.11.dmg"
-                sparkle:edSignature="V6YrgtyGCFhsmVQeQFfJ8bu26VSVP7/gVjKemBtggeYnuLx9r5vvNArKEUN/KqR/FnuEkz16WprFnYzWcxdYDQ=="
-                length="2923711"
+                url="https://github.com/Zentropic-VS/seconddraft-releases/releases/download/v1.12/SecondDraft-1.12.dmg"
+                sparkle:edSignature="eGBEf+pr56KSTisJdVfVS3YCNVu28jlYgA7lQrzVOPpqUyoJ3r/n0RqozTP9yPrQU6xlEhWk/jWw8lG2Ew9LDw=="
+                length="2935643"
                 type="application/octet-stream"/>
         </item>
     </channel>
